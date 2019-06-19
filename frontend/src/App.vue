@@ -5,8 +5,8 @@
     <header id="header">
       <nav id="nav">
         <router-link class="button button-inverted" to="/">HOME</router-link>
-        <router-link class="button button-inverted" to="/service">PROJECT</router-link>
-        <router-link class="button button-inverted" to="/about">IT CONSULTING</router-link>
+        <router-link class="button button-inverted" to="/service">IT CONSULTING</router-link>
+        <router-link class="button button-inverted" to="/about">PROJECT</router-link>
         <router-link class="button button-inverted" to="/support">SUPPORT</router-link>
       </nav>
     </header>
